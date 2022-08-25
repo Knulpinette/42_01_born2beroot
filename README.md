@@ -1,7 +1,7 @@
 
 `42 School Project`
 
-# Born2beroot
+# Born2beroot 💻
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl79akydw00490gi8w73o3in5/project/2220465" alt="osurcouf's 42 Born2beroot Score" /></a>
 
